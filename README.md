@@ -1,4 +1,4 @@
-# -technical-management-of-the-building
+# technical management Of the building
 #### writen by : HEMELEERS emile, IDRISSI sami , KORKUT caner ,ZEUKENG ronald
 ## project user manual
 First execute the code (main_up) then press the boton management system to choose the floor.
